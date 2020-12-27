@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: red;
+}
+
+
+h1 {
+  color: mintcream;
+  font-family: 'Rouge Script', sans-serif;
+  font-size: 100px;
+  margin-left: 370px;
+  ]
+}
+  
+.img {
+   margin-top: 160px;
+   margin-left: 85px;
+  
+}
+
+.sf-snow-flake {
+  position: fixed;
+  top: -20px;
+  z-index: 99999;
+  }
+  .sf-snow-anim {
+  top: 110%;
+  
+}
+
